@@ -1,13 +1,13 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # OnlineFM Radio
-**OnlineFM Radio** is a IP-based radio streaming app built for HarmonyOS NEXT smartwatches.  
+**OnlineFM Radio** is a IP-based radio streaming app built for HarmonyOS smartwatches.  
 The app enables users to browse and play live internet radio stations over HTTP streaming protocols with minimal UI optimized for round screens.
 
 # Preview
 <div><img src="./screenshots/_radio.gif" width="24%"/></div>
 # Use Cases
-A user raises their HarmonyOS NEXT smartwatch, scrolls a lightweight station list, and instantly streams a favorite live internet radio station over HTTP—no phone required. The round-screen, tap-first UI makes quick station switches and volume tweaks effortless on the wrist.
+A user raises their HarmonyOS smartwatch, scrolls a lightweight station list, and instantly streams a favorite live internet radio station over HTTP—no phone required. The round-screen, tap-first UI makes quick station switches and volume tweaks effortless on the wrist.
 # Tech Stack
 
 - **Languages**: ArkTS
